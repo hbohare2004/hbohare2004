@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!! Good too see u...</h1>
+<h1 align="center">Hey there! 👋 Welcome to my GitHub oasis! 🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **DSA | web Development**

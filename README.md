@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Communication skills**
 
-- 📫 How to reach me **harshvardhan2004@gamil.com**
+- 📫 How to reach me **harshbohare2004@gamil.com**
 
 - ⚡ Fun fact **Coffee Fuelled Code Warrior ☕ | Stargazer**
 
